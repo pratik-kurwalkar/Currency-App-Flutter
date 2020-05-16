@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 // put the ios files(Assets.xcassets) in the ios, Runner, Assets.xcassets folder
 // can use android studio to create round icons as well for android.(new->image Asset)
 // websites for free illustrations ->
-// icons8.com, vecteezy.com, canva.com (create free illustrations)
+// icons8.com, vecteezy.com, canva.com - create free illustrations
 void main() {
   runApp(
     MaterialApp(
@@ -19,7 +19,7 @@ void main() {
         backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
-            image: AssetImage('images/diamond.png'),
+            image: AssetImage('images/coal.png'),
           ),
         ),
       ),
